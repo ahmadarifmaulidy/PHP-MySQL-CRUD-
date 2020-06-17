@@ -1,2 +1,4 @@
-# PHP MySQLi CRUD
+# PHP-MySQLi CRUD
 Tugas Membuat Sistem CRUD dengan PHP - MySQLi
+NAMA : AHMAD ARIF MAULIDY
+NIM : G.211.18.0056
